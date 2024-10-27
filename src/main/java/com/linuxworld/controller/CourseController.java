@@ -65,7 +65,7 @@ public class CourseController {
 
     @GetMapping("/welcome")
     public String greetings() {
-        return "Hello! Welcome to the Courses Web Application! The Site is up.. ";
+        return "Hello! Welcome to the Courses Web Application! Its possible! ";
     }
 
 
